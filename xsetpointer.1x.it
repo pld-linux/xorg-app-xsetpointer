@@ -1,0 +1,18 @@
+.\" $XFree86: xc/programs/xsetpointer/xsetpnt.man,v 3.0 1995/12/26 06:10:25 dawes Exp $
+.\"
+.\" Traduzione di Alessandro Passerini <bav4934@iperbole.bologna.it>
+.\" Gennaio 1999
+.TH xsetpointer 1 "Release 6" "X Version 11"
+.SH NOME
+xsetpointer \- seleziona un dispositivo X Input come puntatore principale
+.SH SINTASSI
+.B xsetpointer \-l
+|
+.I nome-dispositivo
+.SH DESCRIZIONE
+Xsetmode imposta un dispositivo XInput come puntatore principale.
+Se richiamato con l'opzione \-l elenca i dispositivi disponibili.
+.SH AUTORE
+Frederic Lepied
+
+Traduzione di Alessandro Passerini (bav4934@iperbole.bologna.it)
