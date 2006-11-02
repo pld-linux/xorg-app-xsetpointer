@@ -1,12 +1,12 @@
 Summary:	xsetpointer application
 Summary(pl):	Aplikacja xsetpointer
 Name:		xorg-app-xsetpointer
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xsetpointer-%{version}.tar.bz2
-# Source0-md5:	c94ea103e27e370e4e5030e50c5d5d69
+# Source0-md5:	9e5bcbeda4aaf02bfa095e41d30baee4
 Source1:	xsetpointer.1x.it
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
