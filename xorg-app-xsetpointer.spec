@@ -1,5 +1,5 @@
 Summary:	xsetpointer application
-Summary(pl.UTF-8):   Aplikacja xsetpointer
+Summary(pl.UTF-8):	Aplikacja xsetpointer
 Name:		xorg-app-xsetpointer
 Version:	1.0.1
 Release:	1
